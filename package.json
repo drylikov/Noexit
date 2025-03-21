@@ -1,0 +1,21 @@
+{
+  "name": "noexit",
+  "version": "1.0.1",
+  "description": "Makes `process.exit` a deprecated no-op.",
+  "main": "noexit.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/noexit"
+  },
+  "keywords": [
+    "exit",
+    "commandments",
+    "prevent"
+  ],
+  "author": "",
+  "license": "ISC",
+  "readmeFilename": "README.md"
+}
